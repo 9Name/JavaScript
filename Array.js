@@ -1,4 +1,4 @@
-Ans. JavaScript arrays are used to store multiple values in a single variable.
+//Ans. JavaScript arrays are used to store multiple values in a single variable.//
 
 <!DOCTYPE html>
 <html>

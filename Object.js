@@ -1,4 +1,4 @@
-Ans:In JavaScript, almost "everything" is an object.
+/Ans:In JavaScript, almost "everything" is an object.
     • Booleans can be objects (if defined with the new keyword)
     • Numbers can be objects (if defined with the new keyword)
     • Strings can be objects (if defined with the new keyword)
@@ -9,7 +9,7 @@ Ans:In JavaScript, almost "everything" is an object.
     • Functions are always objects
     • Objects are always objects
 All JavaScript values, except primitives, are objects.
-Example of objects:
+Example of objects://
 <!DOCTYPE html>
 <html>
 <body>
